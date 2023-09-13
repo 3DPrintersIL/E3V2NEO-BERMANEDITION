@@ -327,6 +327,8 @@ Random Thick 40x40x20 24V fan (Recommand some 12V noctua fan with some buck conv
 
 Fluidd WebUI
 
+Telegram bot
+
 Buck converters - https://he.aliexpress.com/item/1005005065706512.html?spm=a2g0o.productlist.main.23.21da1b6fWVhKGe&algo_pvid=a6fc8b6d-8f8e-4803-a43c-8ef6578ddb0b&algo_exp_id=a6fc8b6d-8f8e-4803-a43c-8ef6578ddb0b-11&pdp_npi=4%40dis%21ILS%2119.80%2113.68%21%21%215.08%21%21%4021038eda16946142037341242e14b5%2112000031503038743%21sea%21IL%212976067160%21S&curPageLogUid=mCJpcuzRjUsg
 --------------------------------
 
